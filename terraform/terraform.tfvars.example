@@ -1,0 +1,5 @@
+aws_region        = "ap-south-1"
+ec2_key_name      = "your-ec2-keypair-name"
+db_password       = "change-me-strong-password"
+s3_bucket_name    = "findx-item-images-unique-suffix"
+ssh_allowed_cidr  = "YOUR.IP.ADDRESS.HERE/32"
